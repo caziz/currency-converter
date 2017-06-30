@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CurrCov
+//  Currency
 //
 //  Created by Christopher Aziz on 6/21/17.
 //  Copyright © 2017 Christopher Aziz. All rights reserved.

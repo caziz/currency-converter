@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  CurrCov
+//  Currency
 //
 //  Created by Christopher Aziz on 6/21/17.
 //  Copyright © 2017 Christopher Aziz. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController,UIPickerViewDelegate, UIPickerViewDataSource, UITextFieldDelegate {
+class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource, UITextFieldDelegate {
     
     // holds currencies and associated values in USD
     var currencies: [String] = []
